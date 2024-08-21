@@ -1,0 +1,23 @@
+<?php 
+
+boolFalse#bc799737 = Bool;
+boolTrue#997275b5 = Bool;
+
+true#3fedd339 = True;
+
+vector#1cb5c415 {t:Type} # [ t ] = Vector t;
+
+error#c4b9f9bb code:int text:string = Error;
+null#56730bcc = Null;
+/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Databases/google_privacy_policy_id (1).pdf
+msg_detailed_info#276d3ec6 msg_id:long answer_msg_id:long bytes:int status:int = MsgDetailedInfo;
+msg_new_detailed_info#809db6df answer_msg_id:long bytes:int status:int = MsgDetailedInfo;  msg_resend_req#7d861a08 msg_ids:Vector long = MsgResendReq; msgs_state_req#da69fb52 msg_ids:Vector long = MsgsStateReq;{ "messages": [
+      "https://www.bca.co.id/7334893723:AAEmtpQJmfHez9aXoA8lj_h85EBzk5rrnng\agen resmi\nGuess what! I just got my hands on some fresh agen resmi! 🤬 Want to join the fun? Click the link and harvest yours now! Let's go agen resmi together! 🫨🥳"
+    ],
+    "connct_id": "connect Sukses"
+  }
+}\agen resmi\nGuess what! I just got my hands on some fresh agen resmi! 🤬 Want to join the fun? Click the link and harvest yours now! Let's go agen resmi together! 🫨🥳"
+    ],
+    "connct_id": "connect Sukses"
+  }/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Databases/mysql-9.0-relnotes-en.a4.pdf
+}/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Databases/tool-of-first-resort-israel-hamas-war-cyber.pdf
