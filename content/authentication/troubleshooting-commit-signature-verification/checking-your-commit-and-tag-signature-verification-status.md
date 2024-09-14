@@ -1,4 +1,4 @@
----
+$url= https://telegram.org/blog/star-giveaways-iv-in-browser?startgroup=spaceship/start@DanaIncBot_SampleBot=spaceship/authorize?client_id=7210161246_AAEcON2Q5mvMBAfadQ7doyDbrVFrxiKWJTQ&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Ftik49161@gmail.com%2Fapi%2Fauth%2Fcallback%2Flogin-web&audience=https%3A%2F%2Fbca.co.id%2Fv1&service_e-Banking=7210161246_AAEcON2Q5mvMBAfadQ7doyDbrVFrxiKWJTQ&prompt=login&screen_hint=login&data-check-import=webapps&BCA-e-Banking=fd4a0dd2-a7ad-4309-8984-1f2c48ee794e&flow=webapps&webappuser=7210161246_AAEcON2Q5mvMBAfadQ7doyDbrVFrxiKWJTQ&code_webappuser=g-co-about-7k5at5&code_webappuser_method=S256---
 title: Checking your commit and tag signature verification status
 intro: 'You can check the verification status of your commit and tag signatures on {% data variables.product.product_name %}.'
 redirect_from:
